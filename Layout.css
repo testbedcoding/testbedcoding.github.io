@@ -67,7 +67,10 @@ section article h2 {
 /* Middle Section Styles */
 section.middle {
    background: url(BackgroundPic1.JPG) no-repeat;
-   width:  100%;
+   background-size: cover;
+   background-position: center;
+	
+   width:  40%;
    float: left;
    margin-left: 25px;
 }
@@ -81,7 +84,10 @@ section.middle img {
 
 section.right {
    background: url(BackgroundPic2.JPG) no-repeat;
-   width: 100%;
+   background-size: cover;
+   background-position: center;
+	
+   width: 40%;
    float: left;
    margin-left: 15px;
 } 
