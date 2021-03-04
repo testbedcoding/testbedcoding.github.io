@@ -18,7 +18,7 @@ section, nav {
 
 /* Body Styles */
 body {
-   background-color: #a7dbe3;
+   background-color: black;
    background: url(BackgroundPic1.JPG) no-repeat;
    background-size: contain;
    background-position: center;
@@ -116,6 +116,15 @@ section article h2 {
    font-size: 1.2em;
    letter-spacing: 5px;
    line-height: 2em;
+}
+
+section article {
+   background-color: white;
+	opacity: .8; 
+   border: 2px  solid black;
+   width: 100%; 
+   border-radius: 45px;
+   margin-bottom: 15px;
 }
 
 section article p {
