@@ -1,0 +1,44 @@
+/*
+             Designing using Hyper-Text Markup Language HTML. Assignment 1. 
+                 About Me Page.css
+                 Author: Paige Webster
+                 Date: 03 Mar 2021
+                 Filename: 			Layout.css
+                 Supporting Files: warhammer Pic 1.jpg, warhammer Pic 2.jpg, warhammer Pic 3.webp, Background photo 1.jpg
+*/
+
+/* File Builder and Display for HTML Codes */
+
+article, aside, figure, figcaption, footer, hgroup, header, 
+section, nav {
+   display: block;
+}
+
+/* Page Styles */
+
+/* Body Styles */
+body {
+   background: url(Background Pic 1.JPG);
+   width: 100%;
+   min-width: 1000px;
+   max-width: 1400px;
+   font-family: Verdana, Geneva, sans-serif;
+   font-weight: bold;
+}
+
+/* Header Styles */
+
+
+/* Navigation Styles */
+
+	/* Vertical Navigation Styles */
+	
+	/* Horizontal Navigation Styles */
+
+/* Section Styles */
+
+/* Middle Section Styles */
+
+/* Right Section Styles */
+
+/* Footer Styles */
