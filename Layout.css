@@ -18,7 +18,7 @@ section, nav {
 
 /* Body Styles */
 body {
-   background: url(../BackgroundPic2.JPG) repeat-y;
+   background: url(../BackgroundPic2.JPG);
    width: 95%;
    min-width: 1000px;
    max-width: 1400px;
