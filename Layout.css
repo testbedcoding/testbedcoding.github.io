@@ -51,6 +51,12 @@ header h1 {
 /* Navigation Styles */
 
 	/* Vertical Navigation Styles */
+
+nav.vertical {
+   float: left;
+   width: 25%;
+   margin-top: -60px;
+}
 	
 	/* Horizontal Navigation Styles (Header) */
 header nav {
