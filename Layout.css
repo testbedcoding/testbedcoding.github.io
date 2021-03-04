@@ -83,7 +83,7 @@ header ul li a{
 	dispay: block;
 }
 
-header ul li a: hover{
+header ul li a:hover{
 	background-color: green;
 	color: yellow;
 }
@@ -92,7 +92,7 @@ header ul li ul li {
 	display: none;
 }
 
-header ul li: hover ul li{
+header ul li:hover ul li{
 	display: block;
 }
 
