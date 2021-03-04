@@ -91,3 +91,10 @@ section.right article:first-of-type {
 }
 
 /* Footer Styles */
+
+footer {
+   clear: left;
+   margin-left: 25%;
+   width: 80%;
+   padding-bottom: 20px;
+}
