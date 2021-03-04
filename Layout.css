@@ -59,6 +59,8 @@ section article h2 {
    font-weight: normal;
    text-align: center;
    color:  white;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: blueviolet;
    width: 100%; 
 	
    font-size: 1.2em;
