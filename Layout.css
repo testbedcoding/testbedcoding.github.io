@@ -20,7 +20,7 @@ section, nav {
 body {
    background-color: #a7dbe3;
    background: url(BackgroundPic1.JPG) no-repeat;
-   background-size: cover;
+   background-size: contain;
    background-position: center;
    width: 100%;
    min-width: 1000px;
