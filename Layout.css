@@ -87,7 +87,7 @@ ul li a: hover{
 	color: yellow;
 }
 
-nav ul li ul li {
+ul li ul li {
 	display: none;
 }
 
