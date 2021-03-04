@@ -55,17 +55,18 @@ header h1 {
 nav.vertical {
    float: left;
    width: 15%;
+   color: white;
    margin-top: -60px;
 }
 	
 	/* Horizontal Navigation Styles (Header) */
-ul{
+header ul{
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
 }
 
-ul li{
+header ul li{
 	float: left;
 	width: 200px;
 	height: 40px;
@@ -76,22 +77,22 @@ ul li{
 	font-size: 20px;
 }
 
-ul li a{
+header ul li a{
 	text-decoration: none;
 	color: white;
 	dispay: block;
 }
 
-ul li a: hover{
+header ul li a: hover{
 	background-color: green;
 	color: yellow;
 }
 
-ul li ul li {
+header ul li ul li {
 	display: none;
 }
 
-ul li: hover ul li{
+header ul li: hover ul li{
 	display: block;
 }
 
