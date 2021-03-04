@@ -29,6 +29,21 @@ body {
 
 /* Header Styles */
 
+header h1 {
+   clear:  left;
+   width: 80%;
+   font-size: 3.5em;
+   font-weight: bold;
+   font-family: Algerian;
+   
+   text-align: center;
+   color:  white;
+   background-color: rgb(163, 73, 164);
+
+   letter-spacing: 5px;
+   line-height: 2em;
+}
+
 /* Navigation Styles */
 
 	/* Vertical Navigation Styles */
