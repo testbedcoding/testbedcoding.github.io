@@ -52,7 +52,48 @@ header h1 {
 
 	/* Vertical Navigation Styles */
 	
-	/* Horizontal Navigation Styles */
+	/* Horizontal Navigation Styles (Header) */
+header nav {
+   position: absolute;
+   left: 150px;
+   top: 135px;
+   Margin-left: 225px;
+   width: 80%;
+   font-size: 80%;
+   z-index: 2;
+}
+
+header nav ul li {
+   display: block; 
+   float: left; 
+   width: 10%;
+   margin: 0px 2px;
+   text-align: center;
+}
+
+header nav ul li ul li {
+   display: none;
+}
+
+header nav ul li a {
+   display: block;
+   text-decoration: none;
+   border: 1px solid red;
+   width: 100%;
+   background-color: black;
+	opacity: .8;
+   color: white;
+}
+
+header nav ul li a:hover {
+  background-color: green;
+  color: yellow; 
+  outline: 2px solid black;
+}
+
+header nav ul li:hover ul li{
+   display: block;
+}
 
 /* Section Styles */
 
