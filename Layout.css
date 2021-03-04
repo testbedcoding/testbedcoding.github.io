@@ -42,3 +42,11 @@ body {
 /* Right Section Styles */
 
 /* Footer Styles */
+footer {
+   background: url(BackgroundPic2.JPG) repeat-y;
+   width: 95%;
+   min-width: 1000px;
+   max-width: 1400px;
+   font-family: Verdana, Geneva, sans-serif;
+   font-weight: bold;
+}
