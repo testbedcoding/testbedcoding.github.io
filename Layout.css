@@ -18,8 +18,8 @@ section, nav {
 
 /* Body Styles */
 body {
-   background: url(Background Pic 1.JPG);
-   width: 100%;
+   background: url(Background Pic 1.JPG) repeat-y;
+   width: 95%;
    min-width: 1000px;
    max-width: 1400px;
    font-family: Verdana, Geneva, sans-serif;
