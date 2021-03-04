@@ -19,7 +19,7 @@ section, nav {
 /* Body Styles */
 body {
    background-color: #a7dbe3;
-   background: url(BackgroundPic2.JPG) no-repeat;
+   background: url(Background Pic 1.JPG) no-repeat;
    width: 100%;
    min-width: 1000px;
    max-width: 1400px;
@@ -28,7 +28,9 @@ body {
 }
 
 /* Header Styles */
-
+Header {
+   background: url(BackgroundPic3.JPG) no-repeat;
+}
 
 /* Navigation Styles */
 
@@ -41,13 +43,7 @@ body {
 /* Middle Section Styles */
 
 /* Right Section Styles */
-
-/* Footer Styles */
 footer {
-   background: url(BackgroundPic2.JPG) repeat-y;
-   width: 95%;
-   min-width: 1000px;
-   max-width: 1400px;
-   font-family: Verdana, Geneva, sans-serif;
-   font-weight: bold;
+   background: url(BackgroundPic2.JPG) no-repeat;
 }
+/* Footer Styles */
