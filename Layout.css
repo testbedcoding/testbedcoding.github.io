@@ -61,6 +61,7 @@ nav.vertical {
 	/* Horizontal Navigation Styles (Header) */
 header nav {
    position: absolute;
+   text-decoration: none;
    left: 150px;
    top: 135px;
    Margin-left: 225px;
@@ -83,7 +84,6 @@ header nav ul li ul li {
 
 header nav ul li a {
    display: block;
-   text-decoration: none;
    border: 1px solid red;
    width: 100%;
    background-color: black;
