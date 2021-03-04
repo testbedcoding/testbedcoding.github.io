@@ -19,7 +19,9 @@ section, nav {
 /* Body Styles */
 body {
    background-color: #a7dbe3;
-   background: url(BackgroundPic3.JPG) no-repeat;
+   background: url(BackgroundPic1.JPG) no-repeat;
+   background-size: cover;
+   background-position: center;
    width: 100%;
    min-width: 1000px;
    max-width: 1400px;
@@ -78,9 +80,6 @@ section article p {
 }
 /* Middle Section Styles */
 section.middle {
-   background: url(BackgroundPic1.JPG) no-repeat;
-   background-size: cover;
-   background-position: center;
 	
    width:  40%;
    float: left;
