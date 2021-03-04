@@ -18,6 +18,7 @@ section, nav {
 
 /* Body Styles */
 body {
+   background-color: #a7dbe3;
    background: url(BackgroundPic2.JPG) no-repeat;
    width: 95%;
    min-width: 1000px;
