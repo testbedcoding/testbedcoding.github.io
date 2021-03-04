@@ -25,7 +25,6 @@ body {
    max-width: 1400px;
    font-family: Verdana, Geneva, sans-serif;
    font-weight: bold;
-    color:  white;
 
 }
 
@@ -70,6 +69,13 @@ section article h2 {
    line-height: 2em;
 }
 
+section article p {
+   font-size: 0.9em;
+   margin: 15px;
+   background-color: black;
+   opacity: .8;
+   color: white;
+}
 /* Middle Section Styles */
 section.middle {
    background: url(BackgroundPic1.JPG) no-repeat;
