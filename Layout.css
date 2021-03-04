@@ -74,9 +74,6 @@ section article h2 {
 section article p {
    font-size: 0.9em;
    margin: 15px;
-   background-color: black;
-   opacity: .8;
-   color: white;
 }
 /* Middle Section Styles */
 section.middle {
