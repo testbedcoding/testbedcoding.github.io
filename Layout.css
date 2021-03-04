@@ -19,7 +19,7 @@ section, nav {
 /* Body Styles */
 body {
    background-color: #a7dbe3;
-   background: url(Background Pic 1.JPG) no-repeat;
+   background: url(BackgroundPic3.JPG) no-repeat;
    width: 100%;
    min-width: 1000px;
    max-width: 1400px;
@@ -28,9 +28,6 @@ body {
 }
 
 /* Header Styles */
-Header {
-   background: url(BackgroundPic3.JPG) no-repeat;
-}
 
 /* Navigation Styles */
 
@@ -41,9 +38,29 @@ Header {
 /* Section Styles */
 
 /* Middle Section Styles */
-
-/* Right Section Styles */
-footer {
-   background: url(BackgroundPic2.JPG) no-repeat;
+section.middle {
+   background: url(Background Pic 1.JPG) no-repeat;
+   width:  40%;
+   float: left;
+   margin-left: 25px;
 }
+
+section.middle img {
+   float: left;
+   clear: left;
+   margin: 0px 5px 0px 0px;
+}
+/* Right Section Styles */
+
+section.right {
+   background: url(BackgroundPic2.JPG) no-repeat;
+   width: 30%;
+   float: left;
+   margin-left: 15px;
+} 
+
+section.right article:first-of-type {
+  text-align: center;
+}
+
 /* Footer Styles */
