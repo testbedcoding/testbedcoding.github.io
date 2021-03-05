@@ -31,11 +31,12 @@ body {
 }
 
 /* Header Styles */
-
+header {
+   background: url(BackgroundPic3.JPG) no-repeat;
+}
 header h1 {
    clear:  left;
    width: 100%;
-   Background-color: black;
    font-size: 3.5em;
    font-weight: bold;
    font-family: Algerian;
