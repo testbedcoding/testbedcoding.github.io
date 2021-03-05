@@ -54,6 +54,8 @@ header h1 {
 
 nav.vertical {
    float: left;
+   text-decoration: none;
+
    width: 15%;
    background-color: black;
 		opacity:.8;
