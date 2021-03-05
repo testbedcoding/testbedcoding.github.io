@@ -33,6 +33,8 @@ body {
 /* Header Styles */
 header {
    background: url(BackgroundPic3.JPG) no-repeat;
+   background-size: contain;
+   background-position: center;
 }
 header h1 {
    clear:  left;
