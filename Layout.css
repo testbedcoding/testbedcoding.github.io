@@ -95,7 +95,7 @@ nav.vertical li a:hover {
 	
 	/* Horizontal Navigation Styles (Header) */
 header ul{
-	margin: 225px;
+	margin-left: 225px;
 	padding: 0px;
 	list-style: none;
 }
