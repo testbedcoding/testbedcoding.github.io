@@ -197,7 +197,43 @@ footer {
 	   background-size: cover;
 	   background-position: center;
    clear: left;
-   margin-left: 25%;
-   width: 80%;
+   margin-left: 0%;
+   width: 100%;
    padding-bottom: 20px;
+}
+
+footer nav ul li {
+   width: 13.5%;
+   font-size: 80%;
+   display: block; 
+   float: left; 
+   margin: 0px 2px;
+   text-align: center;
+}
+
+footer nav ul  li a {
+   display: block;
+   border: 1px solid black;
+   width: 100%;
+   background-color: black;
+   color: white;
+}
+
+footer nav ul a:hover {
+  background-color: white;
+  color: black; 
+  outline: 2px solid white;
+}
+
+
+footer address {
+  background-color: black;
+  color: white;
+  color: white;
+  font-weight: normal;
+  font-variant: smallcaps;
+  font-size: 1em;
+  line-height: 4em;
+  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+  text-align: center;
 }
