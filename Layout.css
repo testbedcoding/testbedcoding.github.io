@@ -155,6 +155,7 @@ section article h2 {
    font-weight: normal;
    text-align: center;
    color:  white;
+   background-color: black;
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: blueviolet;
    width: 100%; 
