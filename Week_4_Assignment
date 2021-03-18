@@ -1,0 +1,206 @@
+<html>
+  <head>
+    <!--
+             Designing using Hyper-Text Markup Language HTML. Assignment 1. 
+                 About Me Page
+                 Author: Paige Webster
+                 Date: 03 Mar 2021
+                 Filename: testbedcoding.github.io
+                 Supporting Files: warhammer Pic 1.jpg, warhammer Pic 2.jpg, warhammer Pic 3.webp
+    -->
+
+    <meta charset="UTF-8" />
+    <title>About Me Page</title>
+    <link href="Layout.css" rel="stylesheet" type="text/css" />	  
+  </head>
+  
+  <body>
+
+  <header>
+    <!--- <img src="BackgroundPic3.JPG" alt="Slideshow" />
+    -->
+	  <nav class="horizontal">
+	      <ul>
+		<li> <a>Hobby Home</a> </li>
+		<li> <a>Community</a>
+		    <ul>
+			<li> <a>Offical Community Page</a> </li>
+			<li> <a>Social Media Page</a> </li>
+			<li> <a>News</a> </li>
+		    </ul> 
+		   </li>
+
+		<li> <a>Age of Sigmar</a>
+		   <ul>
+			<li> <a>Broken Realms</a> </li>
+			<li> <a>Soul Wars</a> </li>
+			<li> <a>Age of Chaos</a> </li>
+		    </ul>
+		   </li>
+
+		<li> <a>Boxed Games</a>
+		    <ul>
+			<li> <a>Warcry and Underworlds</a> </li>
+			<li> <a>Kill Team</a> </li>
+			<li> <a>Cursed City</a> </li>
+		    </ul>
+		   </li>
+		   <li> <a>40,000 WH</a>
+		   <ul>
+			<li> <a>Factions</a> </li>
+		    </ul>
+		</li>
+
+		<li> <a>Assignments</a>
+		   <ul>
+			<li> <a>Week 3</a> </li>
+			<li> <a>Week 4</a> </li>
+			<li> <a>Week 5</a> </li>
+		    </ul>
+		</li>
+		 <li> <a>Progress</a>
+		   <ul>
+			<li> <a>Week 6</a> </li>
+		    </ul>
+		</li>
+	      </ul>
+	  </nav>
+    
+    <h1> Week Four... The Art of Deception </h1> 
+  </header>
+    
+    <nav class="vertical">
+      <ul>
+
+            <li class="lTitle"><a>Really Cool links</a></li>
+        <ul>
+
+                    <li class="lTitle"><a>Chaos</a></li>
+                    <li class="lTitle"><a>Death</a></li>
+                    <li class="lTitle"><a>Destro</a></li>
+                    <li class="lTitle"><a>Order</a></li>  
+        </ul>
+          
+           <li class="lTitle"><a>Some More Really Cool Links</a></li>
+        
+                <ul>
+                    <li class="lTitle"><a>Aliens</a></li>
+                    <li class="lTitle"><a>Mankind</a></li>
+                    <li class="lTitle"><a>Chaos</a></li>
+                </ul>
+
+       </ul>
+      
+     </nav>
+
+    <section class="middle">
+      <article>
+        <h2>The Bait...</h2> 
+		<iframe width="780" height="315" 
+			src="https://www.youtube.com/watch?v=EE-xtCF3T94" 
+			frameborder="0" 
+			allow="accelerometer; 
+			       autoplay; 
+			       clipboard-write; 
+			       encrypted-media; 
+			       gyroscope; 
+			       picture-in-picture" allowfullscreen>
+	      </iframe>
+
+        <p> Hello, my dear sweet innocent classmates <a href="https://www.wikihow-fun.com/Rick-Roll-Someone"> today I shall teach the most devious of skills. </a> 
+	The most rambunctious of <a href="https://dribbble.com/shots/2578771/attachments/2578771-Ooh-Yeah?mode=media"> operations </a> a quick one two on Rick-Rolling.
+        First, you have to find the bait, or a solid video with a deceptive title... and evenmoreso, a deceptive thumbnail. </p>
+
+      </article>
+
+      <article>
+        <h2>The Lure...</h2> 
+		<iframe width="560" height="315" 
+			src="https://www.youtube.com/embed/ufP8ka3KGno" 
+			frameborder="0" 
+			allow="accelerometer; 
+			       autoplay; 
+			       clipboard-write; 
+			       encrypted-media; 
+			       gyroscope; 
+			       picture-in-picture" allowfullscreen>
+	      	</iframe>
+	      <a class="twitter-timeline" 
+		 data-lang="en" 
+		 data-width="220" 
+		 data-height="315" 
+		 data-theme="dark" 
+		 href="https://twitter.com/AgeOfSigmar?ref_src=twsrc%5Etfw">
+		      Tweets by AgeOfSigmar</a> 
+	      <script async 
+		      src="https://platform.twitter.com/widgets.js" 
+		      charset="utf-8">
+	      </script>
+	      
+        <p> Once your most subtle efforts have proved fruitful, you've come to a cross road... and impassed you could say!  </p>
+
+      </article>
+    </section>
+
+    <section class="right">     
+      <article>
+        <h2>Painting</h2> 
+
+              <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/ZzjJqNV4Ei0" 
+		      frameborder="0" 
+		      allow="accelerometer; 
+			     autoplay; 
+			     clipboard-write; 
+			     encrypted-media; 
+			     gyroscope; 
+			     picture-in-picture" 
+          allowfullscreen></iframe>"
+	      <a class="twitter-timeline" 
+		 data-lang="en" 
+		 data-width="220" 
+		 data-height="315" 
+		 data-theme="dark" 
+		 href="https://twitter.com/thegdcompendium?ref_src=twsrc%5Etfw">
+		      Tweets by thegdcompendium</a> 
+	      <script async 
+		      src="https://platform.twitter.com/widgets.js" 
+		      charset="utf-8">
+	      </script>
+        
+        <p> For every aspect of hobbies there are those who excel in teaching and expanding the community. Painting is no different, we often look to and indvidual named
+        Duncan Rhodes! Or Mister two thin coats... he is a great painter and isn't afraid to share his mistakes, tips and tricks. </p>
+
+      </article>
+	<article>
+            <h2>Twitter Feed!</h2>
+		<a class="twitter-timeline" data-lang="en" data-width="750" data-height="500" data-theme="dark" 
+		href="https://twitter.com/VoxCaster?ref_src=twsrc%5Etfw">
+		Tweets by VoxCaster</a> 
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			 <p> Attached is a twitter feed for the hobby! :D </p> 
+         </article>
+    </section>
+    <footer>
+      	<address>
+          https://testbedcoding.github.io/&#9830;
+          <a href="mailto:contactus@contactus.contactus?subject=ACC%20Feedback%20And%20Contact%20Form&body=Feedback%20"> 
+            Contact us</a>&#9830; 
+	        ### Drive &#9830;
+	        CITY, State &#9830;
+	        (000) 000 - 0000
+        </address>
+      <nav>
+        <ul> 
+        <li><a href="">Hobby Home</a></li>
+	<li><a href="">Week Two</a></li>
+	<li><a href="">Week Three</a></li>
+        <li><a href="">Week Four</a></li>
+	<li><a href="">Week Five</a></li>
+        <li><a href="">Final</a></li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+
+</html> 
