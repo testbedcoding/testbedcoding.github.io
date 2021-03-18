@@ -35,6 +35,8 @@ header {
    background: url(BackgroundPic3.JPG) repeat-x;
    background-size: contain;
    background-position: center;
+	width: 100&
+	Margin-center: 0px;
 }
 header h1 {
    clear:  left;
@@ -65,6 +67,11 @@ nav.vertical {
 		opacity:.8;
    color: white;
    margin-top: -10px;
+
+	-op-background-size: contain;
+	-moz-background-size: contain;
+	-webkite-background-size: contain;
+	background-size: contain;
 }
 
 nav.vertical ul {
@@ -137,6 +144,10 @@ header ul li:hover ul li{
 
 /* Section Styles */
 
+section {
+	margin-top: 20px;
+}
+
 /* Section Articles */
 section article h2 {
    margin: 0px 0px 15px 0px;
@@ -146,6 +157,17 @@ section article h2 {
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: blueviolet;
    width: 100%; 
+	
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: blueviolet;
+	-webkit-border-top-left-radius: 40px;
+	-webkit-border-top-right-radius: 40px;
+	
+	-moz-border-radius-topleft: 40px;
+	border-top-left-radius: 40px;
+
+	-moz-border-radius-topright: 40px;
+	border-top-right-radius: 40px;	
 	
    font-size: 1.2em;
    letter-spacing: 5px;
@@ -159,6 +181,8 @@ section article {
    width: 100%; 
    border-radius: 45px;
    margin-bottom: 15px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
 }
 
 section article p {
@@ -227,8 +251,7 @@ footer nav ul a:hover {
 
 
 footer address {
-  background-color: black;
-  color: white;
+  /* background-color: black; */
   color: white;
   font-weight: normal;
   font-variant: smallcaps;
