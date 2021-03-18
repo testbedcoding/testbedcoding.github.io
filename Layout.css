@@ -32,7 +32,7 @@ body {
 
 /* Header Styles */
 header {
-   background: url(BackgroundPic3.JPG) no-repeat;
+   background: url(BackgroundPic3.JPG) repeat-x;
    background-size: contain;
    background-position: center;
 }
