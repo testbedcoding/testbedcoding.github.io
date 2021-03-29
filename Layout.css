@@ -127,6 +127,7 @@ div.desc {
   background-color: white;
      opacity:.8;
   text-align: center;
+	font-size: 1vw;
 }
 
 	/* Horizontal Navigation Styles (Header) */
